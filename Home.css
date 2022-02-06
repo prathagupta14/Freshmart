@@ -60,7 +60,7 @@ img {
     margin-top: 25%;
 }
 
-.about-us-head {
+.head {
     text-align: center;
 }
 
@@ -70,4 +70,17 @@ h3 {
 
 ul {
     list-style-image: url(list-image.png);
+}
+
+table {
+    border: 2px solid green;
+    border-collapse: collapse;
+    margin: 2% 5% 2% 35%;
+}
+
+
+th, td {
+    padding: 20px 40px;
+    font-size: large;
+    text-align: center;
 }
